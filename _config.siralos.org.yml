@@ -1,12 +1,16 @@
 title:            Johnny Sunshine
 description:      Long form words
-url:              # Site url.
-signoff:          John Sonnenschein
+url:              https://siralos.org
+signoff:          # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+baseurl: /blog
 links:
   - name:         Blog
-    url:          /
+    url:          /blog
   - name:         About
-    url:          /about
+    url:          /blog/about
   - name:         Email
     url:          mailto:johnsonnenschein@gmail.com
     external:     true

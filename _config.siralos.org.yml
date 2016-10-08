@@ -9,8 +9,6 @@ baseurl: /blog
 links:
   - name:         Blog
     url:          /blog
-  - name:         About
-    url:          /blog/about
   - name:         Email
     url:          mailto:johnsonnenschein@gmail.com
     external:     true

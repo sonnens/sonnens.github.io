@@ -5,8 +5,6 @@ signoff:          John Sonnenschein
 links:
   - name:         Blog
     url:          /
-  - name:         About
-    url:          /about
   - name:         Email
     url:          mailto:johnsonnenschein@gmail.com
     external:     true
